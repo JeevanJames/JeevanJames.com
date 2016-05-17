@@ -51,7 +51,7 @@ jQuery(document).ready(function($) {
     $("#rss-feeds").rss(
 
         //Change this to your own rss feeds
-        "http://feeds.feedburner.com/TechCrunch/startups",
+        "http://feeds.gawker.com/lifehacker/full",
 
         {
         // how many entries do you want?
